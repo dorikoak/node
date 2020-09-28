@@ -1,4 +1,4 @@
-# Git 테스트 겸 Node 스터디 Repository 입니다.
+# Node 회원가입 구현 Repository 입니다.
 
 Git 저장소 생성을 하려면 remote add 명령어를 통해 원격 저장소 추가가 가능.
 
